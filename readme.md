@@ -1,39 +1,39 @@
 Estrutura de repetição
 
-For
-While
-Do-while
-Loop Aninhados
-Loop Avançados
-Recursividades
+    For
+    While
+    Do-while
+    Loop Aninhados
+    Loop Avançados
+    Recursividades
 
-Necessidade:
-Permite execução repetida de instruções
-Cruciais para programas eficazes e de fácil manutenção
+    Necessidade:
+        Permite execução repetida de instruções
+        Cruciais para programas eficazes e de fácil manutenção
 
-Vantagens:
-Evitam duplicação manual do código
-Reduzem scripts longos, redundantes e propensos a erros
+    Vantagens:
+        Evitam duplicação manual do código
+        Reduzem scripts longos, redundantes e propensos a erros
 
-Tipos de Estruturas de repetição
-For
-While
-Do-While
+    Tipos de Estruturas de repetição
+        For
+        While
+        Do-While
 
-Aplicações:
-Processamentos de grandes volumes de dados
-Execução de operações matemáticas complexas
+    Aplicações:
+        Processamentos de grandes volumes de dados
+        Execução de operações matemáticas complexas
 
-Desafios
-Compreensão da logica
-Erro comum: loop infinito
+    Desafios
+        Compreensão da logica
+        Erro comum: loop infinito
 
-Como estudar:
-Reconhecimento de padrões
-Entendimento dos conceitos
-Criação de algoritmos
-Experimentação
-Pratica constante
+    Como estudar:
+        Reconhecimento de padrões
+        Entendimento dos conceitos
+        Criação de algoritmos
+        Experimentação
+        Pratica constante
 
 Estrutura "while"
 
